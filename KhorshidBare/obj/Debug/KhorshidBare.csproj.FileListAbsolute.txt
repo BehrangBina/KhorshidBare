@@ -1,39 +1,126 @@
-d:\Projects\KhorshidBare\KhorshidBare\bin\roslyn\csc.exe
-d:\Projects\KhorshidBare\KhorshidBare\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-d:\Projects\KhorshidBare\KhorshidBare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-d:\Projects\KhorshidBare\KhorshidBare\bin\roslyn\Microsoft.CodeAnalysis.dll
-d:\Projects\KhorshidBare\KhorshidBare\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-d:\Projects\KhorshidBare\KhorshidBare\bin\roslyn\Microsoft.CSharp.Core.targets
-d:\Projects\KhorshidBare\KhorshidBare\bin\roslyn\Microsoft.VisualBasic.Core.targets
-d:\Projects\KhorshidBare\KhorshidBare\bin\roslyn\System.Collections.Immutable.dll
-d:\Projects\KhorshidBare\KhorshidBare\bin\roslyn\System.Reflection.Metadata.dll
-d:\Projects\KhorshidBare\KhorshidBare\bin\roslyn\vbc.exe
-d:\Projects\KhorshidBare\KhorshidBare\bin\roslyn\VBCSCompiler.exe
-d:\Projects\KhorshidBare\KhorshidBare\bin\roslyn\VBCSCompiler.exe.config
-d:\Projects\KhorshidBare\KhorshidBare\bin\KhorshidBare.dll.config
-d:\Projects\KhorshidBare\KhorshidBare\bin\KhorshidBare.dll
-d:\Projects\KhorshidBare\KhorshidBare\bin\KhorshidBare.pdb
-d:\Projects\KhorshidBare\KhorshidBare\bin\EntityFramework.dll
-d:\Projects\KhorshidBare\KhorshidBare\bin\EntityFramework.SqlServer.dll
-d:\Projects\KhorshidBare\KhorshidBare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-d:\Projects\KhorshidBare\KhorshidBare\bin\Microsoft.Web.Infrastructure.dll
-d:\Projects\KhorshidBare\KhorshidBare\bin\Newtonsoft.Json.dll
-d:\Projects\KhorshidBare\KhorshidBare\bin\System.Web.Helpers.dll
-d:\Projects\KhorshidBare\KhorshidBare\bin\System.Web.Mvc.dll
-d:\Projects\KhorshidBare\KhorshidBare\bin\System.Web.Razor.dll
-d:\Projects\KhorshidBare\KhorshidBare\bin\System.Web.Webpages.Deployment.dll
-d:\Projects\KhorshidBare\KhorshidBare\bin\System.Web.Webpages.dll
-d:\Projects\KhorshidBare\KhorshidBare\bin\System.Web.Webpages.Razor.dll
-d:\Projects\KhorshidBare\KhorshidBare\bin\EntityFramework.xml
-d:\Projects\KhorshidBare\KhorshidBare\bin\EntityFramework.SqlServer.xml
-d:\Projects\KhorshidBare\KhorshidBare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-d:\Projects\KhorshidBare\KhorshidBare\bin\Newtonsoft.Json.xml
-d:\Projects\KhorshidBare\KhorshidBare\bin\System.Web.Razor.xml
-d:\Projects\KhorshidBare\KhorshidBare\bin\System.Web.Webpages.xml
-d:\Projects\KhorshidBare\KhorshidBare\bin\System.Web.Webpages.Deployment.xml
-d:\Projects\KhorshidBare\KhorshidBare\bin\System.Web.Webpages.Razor.xml
-d:\Projects\KhorshidBare\KhorshidBare\bin\System.Web.Helpers.xml
-d:\Projects\KhorshidBare\KhorshidBare\bin\System.Web.Mvc.xml
-d:\Projects\KhorshidBare\KhorshidBare\obj\Debug\KhorshidBare.dll
-d:\Projects\KhorshidBare\KhorshidBare\obj\Debug\KhorshidBare.pdb
-d:\Projects\KhorshidBare\KhorshidBare\obj\Debug\KhorshidBare.csprojResolveAssemblyReference.cache
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\roslyn\csc.exe
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\roslyn\vbc.exe
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\roslyn\VBCSCompiler.exe
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\KhorshidBare.dll.config
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\KhorshidBare.dll
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\KhorshidBare.pdb
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\System.Web.Helpers.dll
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\System.Web.Mvc.dll
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\System.Web.Razor.dll
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\System.Web.Webpages.Deployment.dll
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\System.Web.Webpages.dll
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\System.Web.Webpages.Razor.dll
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\System.Web.Razor.xml
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\System.Web.Webpages.xml
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\System.Web.Webpages.Deployment.xml
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\System.Web.Webpages.Razor.xml
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\System.Web.Helpers.xml
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\System.Web.Mvc.xml
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\obj\Debug\KhorshidBare.csprojResolveAssemblyReference.cache
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\obj\Debug\KhorshidBare.dll
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\obj\Debug\KhorshidBare.pdb
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\Microsoft.Owin.dll
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\Microsoft.Owin.Security.dll
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\Owin.dll
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\Microsoft.Owin.xml
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\Microsoft.Owin.Security.xml
+c:\users\ben.bina\documents\visual studio 2015\Projects\KhorshidBare\KhorshidBare\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\roslyn\csc.exe
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\roslyn\vbc.exe
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\KhorshidBare.dll.config
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\KhorshidBare.dll
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\KhorshidBare.pdb
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\Microsoft.Owin.dll
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\Microsoft.Owin.Security.dll
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\Owin.dll
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\System.Web.Helpers.dll
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\System.Web.Mvc.dll
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\System.Web.Razor.dll
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\System.Web.Webpages.dll
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\Microsoft.Owin.xml
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\Microsoft.Owin.Security.xml
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\System.Web.Razor.xml
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\System.Web.Webpages.xml
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\System.Web.Helpers.xml
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\bin\System.Web.Mvc.xml
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\obj\Debug\KhorshidBare.dll
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\obj\Debug\KhorshidBare.pdb
+C:\Users\Ben\Desktop\KhorshidBare\KhorshidBare\obj\Debug\KhorshidBare.csprojResolveAssemblyReference.cache
+D:\projects\KhorshidBare\KhorshidBare\bin\roslyn\csc.exe
+D:\projects\KhorshidBare\KhorshidBare\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\projects\KhorshidBare\KhorshidBare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\projects\KhorshidBare\KhorshidBare\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\projects\KhorshidBare\KhorshidBare\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\projects\KhorshidBare\KhorshidBare\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\projects\KhorshidBare\KhorshidBare\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\projects\KhorshidBare\KhorshidBare\bin\roslyn\System.Collections.Immutable.dll
+D:\projects\KhorshidBare\KhorshidBare\bin\roslyn\System.Reflection.Metadata.dll
+D:\projects\KhorshidBare\KhorshidBare\bin\roslyn\vbc.exe
+D:\projects\KhorshidBare\KhorshidBare\bin\roslyn\VBCSCompiler.exe
+D:\projects\KhorshidBare\KhorshidBare\bin\roslyn\VBCSCompiler.exe.config
+D:\projects\KhorshidBare\KhorshidBare\bin\KhorshidBare.dll.config
+D:\projects\KhorshidBare\KhorshidBare\bin\KhorshidBare.dll
+D:\projects\KhorshidBare\KhorshidBare\bin\KhorshidBare.pdb
+D:\projects\KhorshidBare\KhorshidBare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\projects\KhorshidBare\KhorshidBare\bin\Microsoft.Owin.dll
+D:\projects\KhorshidBare\KhorshidBare\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\projects\KhorshidBare\KhorshidBare\bin\Microsoft.Owin.Security.Cookies.dll
+D:\projects\KhorshidBare\KhorshidBare\bin\Microsoft.Owin.Security.dll
+D:\projects\KhorshidBare\KhorshidBare\bin\Microsoft.Web.Infrastructure.dll
+D:\projects\KhorshidBare\KhorshidBare\bin\Owin.dll
+D:\projects\KhorshidBare\KhorshidBare\bin\System.Web.Helpers.dll
+D:\projects\KhorshidBare\KhorshidBare\bin\System.Web.Mvc.dll
+D:\projects\KhorshidBare\KhorshidBare\bin\System.Web.Razor.dll
+D:\projects\KhorshidBare\KhorshidBare\bin\System.Web.Webpages.Deployment.dll
+D:\projects\KhorshidBare\KhorshidBare\bin\System.Web.Webpages.dll
+D:\projects\KhorshidBare\KhorshidBare\bin\System.Web.Webpages.Razor.dll
+D:\projects\KhorshidBare\KhorshidBare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\projects\KhorshidBare\KhorshidBare\bin\Microsoft.Owin.xml
+D:\projects\KhorshidBare\KhorshidBare\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\projects\KhorshidBare\KhorshidBare\bin\Microsoft.Owin.Security.xml
+D:\projects\KhorshidBare\KhorshidBare\bin\Microsoft.Owin.Security.Cookies.xml
+D:\projects\KhorshidBare\KhorshidBare\bin\System.Web.Razor.xml
+D:\projects\KhorshidBare\KhorshidBare\bin\System.Web.Webpages.xml
+D:\projects\KhorshidBare\KhorshidBare\bin\System.Web.Webpages.Deployment.xml
+D:\projects\KhorshidBare\KhorshidBare\bin\System.Web.Webpages.Razor.xml
+D:\projects\KhorshidBare\KhorshidBare\bin\System.Web.Helpers.xml
+D:\projects\KhorshidBare\KhorshidBare\bin\System.Web.Mvc.xml
+D:\projects\KhorshidBare\KhorshidBare\obj\Debug\KhorshidBare.csprojResolveAssemblyReference.cache
+D:\projects\KhorshidBare\KhorshidBare\obj\Debug\KhorshidBare.dll
+D:\projects\KhorshidBare\KhorshidBare\obj\Debug\KhorshidBare.pdb

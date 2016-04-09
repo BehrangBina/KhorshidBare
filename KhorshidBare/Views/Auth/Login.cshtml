@@ -1,0 +1,85 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet"/>
+    <link href="~/Content/style.css" rel="stylesheet" />
+    <link href="~/Content/login.css" rel="stylesheet" />
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top" id="nav">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                
+                <a class="navbar-brand" href="/home/index">
+                    <div class="logo-small">
+                        <img src="~/img/LogoSmall.png" alt="khorshid Graphic Studio" />
+
+                    </div>
+                </a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse"  id="loginNav">
+                <ul class="nav navbar-nav navbar-right">
+                    
+                    <li class="page-scroll">
+                        <a href="/home/index">Home</a>
+                    </li>
+
+                   
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+    <div class="container" id="login">
+        <section id="content">
+            
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()            
+               
+                <h1>Login Form</h1>
+                <div>
+                    <input type="text" placeholder="Username" required="" id="email" name="email"/>
+                </div>
+                <div>
+                    <input type="password" placeholder="Password" required="" id="password" Name="Password"/>
+                </div>
+                <div>
+                    <input type="hidden"    id="returnUrl" name="returnUrl" />
+                </div>
+                <div>
+                    <input type="submit" value="Log in"/>
+
+                </div>
+
+
+            }
+            <div class="button">
+
+                <a href="/Home/Index"><span class="glyphicon glyphicon-check"></span>  &nbsp; Back To Main Site</a>
+                <br/>
+                @Html.ValidationSummary(true, "", new { @class = "alert alert-danger", role = "alert" })
+            </div><!-- button -->
+        </section><!-- content -->
+    </div><!-- container -->
+ 
+</body>
+</html>

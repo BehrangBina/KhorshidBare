@@ -1,0 +1,59 @@
+﻿
+        #thumbs {
+            list-style: none;
+            margin: 0px;
+            padding: 0px;
+            margin-top: 10px;
+        }
+
+            #thumbs li {
+                float: left;
+                margin-right: 10px;
+                cursor: pointer;
+            }
+
+                #thumbs li img {
+                    height: 75px;
+                    vertical-align: top;
+                }
+                #thumbs li.selected {
+                    outline: 3px solid #d2691e;
+                }
+
+        div#img img {
+            width: 600px;
+            height: 400px;
+        }
+
+        div#btns {
+            position: relative;
+            width: 600px;
+        }
+
+        .prev, .next {
+            width: 29px;
+            height: 29px;
+            position: absolute;
+            top: -95px;
+            cursor: pointer;
+        }
+
+        .prev {
+            background-image: url('../img/pre.png');
+            left: -45px; /*pre 40px*/
+           width: 40px; height:40px;
+        }
+
+        .next {
+            background-image: url('../img/next.png');
+            right: -45px; /*pre 40px*/
+            height:40px;width: 40px;
+        }
+
+        .jp-disabled {
+            display: none;
+        }
+       #portfolio-gallary {
+           left:100px;top:-35px;position: relative;
+       }
+    

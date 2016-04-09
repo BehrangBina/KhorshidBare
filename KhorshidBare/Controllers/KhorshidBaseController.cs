@@ -1,5 +1,6 @@
 ﻿
 
+using KhorshidBare.ActionResult;
 using System.Web.Mvc;
 
 
@@ -10,7 +11,7 @@ namespace KhorshidBare.Controllers
       public KhorshidJsonResult<T> SimpleJsonResult<T>(T model)
         {
 
-            return null;
+            return new KhorshidJsonResult<T> { Data = model };
         }
     }
 }
